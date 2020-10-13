@@ -1,0 +1,13 @@
+E:\prj\Task-40\Task-40\bin\Debug\netcoreapp3.1\Task-40.exe
+E:\prj\Task-40\Task-40\bin\Debug\netcoreapp3.1\Task-40.deps.json
+E:\prj\Task-40\Task-40\bin\Debug\netcoreapp3.1\Task-40.runtimeconfig.json
+E:\prj\Task-40\Task-40\bin\Debug\netcoreapp3.1\Task-40.runtimeconfig.dev.json
+E:\prj\Task-40\Task-40\bin\Debug\netcoreapp3.1\Task-40.dll
+E:\prj\Task-40\Task-40\bin\Debug\netcoreapp3.1\Task-40.pdb
+E:\prj\Task-40\Task-40\obj\Debug\netcoreapp3.1\Task-40.csprojAssemblyReference.cache
+E:\prj\Task-40\Task-40\obj\Debug\netcoreapp3.1\Task-40.AssemblyInfoInputs.cache
+E:\prj\Task-40\Task-40\obj\Debug\netcoreapp3.1\Task-40.AssemblyInfo.cs
+E:\prj\Task-40\Task-40\obj\Debug\netcoreapp3.1\Task-40.csproj.CoreCompileInputs.cache
+E:\prj\Task-40\Task-40\obj\Debug\netcoreapp3.1\Task-40.dll
+E:\prj\Task-40\Task-40\obj\Debug\netcoreapp3.1\Task-40.pdb
+E:\prj\Task-40\Task-40\obj\Debug\netcoreapp3.1\Task-40.genruntimeconfig.cache
